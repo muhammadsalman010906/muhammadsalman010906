@@ -1,9 +1,5 @@
 👋 Hi, I'm Muhammad Salman
 
-💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsalman010906&layout=compact&theme=tokyonight)
-
 💻 Aspiring Software Developer | IoT Enthusiast | Linux & Networking Learner
 
 ---
