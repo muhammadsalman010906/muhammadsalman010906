@@ -1,5 +1,13 @@
 👋 Hi, I'm Muhammad Salman
 
+📊 GitHub Stats
+
+![Salman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadsalman010906&show_icons=true&theme=tokyonight)
+
+💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsalman010906&layout=compact&theme=tokyonight)
+
 💻 Aspiring Software Developer | IoT Enthusiast | Linux & Networking Learner
 
 ---
@@ -19,6 +27,14 @@ I am a passionate IT student focused on building real-world projects in:
 - 🔌 IoT: ESP8266, MFRC522 RFID
 - 🐧 OS: Linux (basic system operations, networking tools)
 - ⚙️ Tools: Git, GitHub, Arduino IDE, VS Code
+
+🛠️ Skills Badges
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -50,3 +66,7 @@ Connect With Me
 ---
 
 ⭐ Always learning, always building.
+
+## 🔥 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadsalman010906&theme=tokyo-night)
