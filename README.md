@@ -1,8 +1,5 @@
 👋 Hi, I'm Muhammad Salman
 
-📊 GitHub Stats
-
-![Salman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadsalman010906&show_icons=true&theme=tokyonight)
 
 💻 Most Used Languages
 
@@ -67,6 +64,3 @@ Connect With Me
 
 ⭐ Always learning, always building.
 
-## 🔥 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadsalman010906&theme=tokyo-night)
